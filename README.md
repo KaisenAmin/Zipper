@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Zipper (C++ + PowerShell)
 
 A tiny CLI tool to **zip** and **unzip** files on Windows by calling PowerShellâ€™s
@@ -14,7 +14,7 @@ A tiny CLI tool to **zip** and **unzip** files on Windows by calling PowerShellâ
 ```bash
 g++ -std=c++17 -O2 -o zipper main.cpp
 # or use MSVC / CMake as you prefer
-````
+```
 
 ## Usage
 
