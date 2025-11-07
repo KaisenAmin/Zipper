@@ -1,5 +1,3 @@
-Here’s a short, ready-to-paste README snippet:
-
 ````markdown
 # Zipper (C++ + PowerShell)
 
@@ -30,5 +28,3 @@ zipper --unzip --path out.zip            --dest extracted\
 
 > Requires Windows 10+ with PowerShell available on PATH. Uses `system()` to invoke commands.
 
-```
-```
